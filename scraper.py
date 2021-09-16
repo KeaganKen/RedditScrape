@@ -1,3 +1,4 @@
+# JOIN MY DISCORD! discord.gg/dVSVGgqv2Q
 import praw,requests,re
 import os
 
